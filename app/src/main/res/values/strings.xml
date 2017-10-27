@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Listen</string>
+    <string-array name="paises">
+        <item>España</item>
+        <item>Italia</item>
+        <item>Mongolia</item>
+    </string-array>
+</resources>
